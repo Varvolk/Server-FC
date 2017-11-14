@@ -1,0 +1,6 @@
+﻿  Исходный код.cpp
+f:\my programs\3-kurs\winapi\opencvserver\opencvserver\исходный код.cpp(233): warning C4101: Nik: неиспользованная локальная переменная
+f:\my programs\3-kurs\winapi\opencvserver\opencvserver\исходный код.cpp(319): warning C4244: инициализация: преобразование "time_t" в "int", возможна потеря данных
+f:\my programs\3-kurs\winapi\opencvserver\opencvserver\исходный код.cpp(322): warning C4244: =: преобразование "time_t" в "int", возможна потеря данных
+  OpenCVserver.vcxproj -> F:\My programs\3-Kurs\Winapi\OpenCVserver\Debug\OpenCVserver.exe
+  OpenCVserver.vcxproj -> F:\My programs\3-Kurs\Winapi\OpenCVserver\Debug\OpenCVserver.pdb (Full PDB)
